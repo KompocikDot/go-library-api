@@ -2,4 +2,4 @@
 .vscode/
 
 # local envs #
-.envs
+.env
